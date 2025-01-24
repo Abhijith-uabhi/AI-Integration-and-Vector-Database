@@ -11,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@langchain/community": "^0.3.26",
+    "@langchain/openai": "^0.3.17",
+    "axios": "^1.7.9",
+    "chromadb": "^1.10.4",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "nodemon": "^3.1.9"
